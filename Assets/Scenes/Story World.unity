@@ -489,6 +489,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Forest Island (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 3993608112499401682, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4334703404888979816, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
       propertyPath: m_RootOrder
       value: 33
@@ -578,6 +582,10 @@ PrefabInstance:
     - target: {fileID: 3993608112499401682, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
       propertyPath: m_Name
       value: Forest Island (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3993608112499401682, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4334703404888979816, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
       propertyPath: m_RootOrder
@@ -6484,6 +6492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Forest Island (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3993608112499401682, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4334703404888979816, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -8917,6 +8929,10 @@ PrefabInstance:
     - target: {fileID: 3993608112499401682, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
       propertyPath: m_Name
       value: Forest Island (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3993608112499401682, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4334703404888979816, guid: 01c6f4064851c4679af015c54651cfc2, type: 3}
       propertyPath: m_RootOrder
